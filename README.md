@@ -416,7 +416,7 @@ float: right;
 => yang berisi form isian: nama, email, message, dll
 
 # Jawaban
-1. Ini Hasil Jawabannya 
+1. Ini Hasil Jawabannya <br>
    Html
 ```
  <div class="about">
@@ -455,7 +455,7 @@ Css
 ```
 ![Gambar](ss/ssJawaban1.1.png)
 
-2. Ini Hasilnya Jawabannya
+2. Ini Hasilnya Jawabannya<br>
    Html
 ```
 <div class="about">
